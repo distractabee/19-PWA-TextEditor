@@ -2,7 +2,7 @@
 
 ## Description
 
-
+This project was designed to teach students how to use a service worker to create a progressive web application that can be downloaded to the user's device and used even offline. This is a simple text editor for a user to make notes, drafts, shopping lists, etc.
 
 ## Table of Contents (Optional)
 
@@ -13,19 +13,15 @@
 
 ## Installation
 
+To install
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
-This project was created with source code from the SMU Full Stack Web Development boot camp
+This project was created with source code from the SMU Full Stack Web Development boot camp.
 
 ## License
+
+[MIT license](https://mit-license.org/)
